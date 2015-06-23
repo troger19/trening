@@ -1,0 +1,2 @@
+# trening
+Trening android counter
